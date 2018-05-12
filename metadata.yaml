@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43598'
     url: http://www.gutenberg.org/2009/agents/43598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46067#How-To-Ski-and-How-Not-To
 gutenberg_issued: '2014-06-21'
 gutenberg_type: Text
 identifiers:
